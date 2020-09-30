@@ -19,7 +19,7 @@ echo -e	"\n(f) security mode (SELinux status)\n"
 sestatus
 
 echo -e	"\n(g) firewall configuration\n"
-firewall-cmd --list-all;iptables -Lnv
+firewall-cmd --list-all;sudo iptables -Lnv
 
 echo -e	"\n(h) list of active repositories\n"
 yum repolist enabled     
