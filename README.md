@@ -1,2 +1,4 @@
 # Baseline script
-Baseline script before executing security or pen testing.
+Just copy or download the the_script.bash.txt
+chmod +x the_script.bash.txt
+./the_script.bash.txt > output_file_name
