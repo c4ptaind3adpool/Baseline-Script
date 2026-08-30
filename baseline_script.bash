@@ -1,6 +1,7 @@
 #!/bin/bash
 # Project: Linux Security Baseline & Platform Audit
 # Author: Arnav Mohan
+# Licensed under the MIT License (see LICENSE file for details)
 # Description: Automated collection of system telemetry for security hardening 
 # and compliance auditing (CIS/ISO 27001).
 # Target OS: RHEL/CentOS/Fedora
